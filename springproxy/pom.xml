@@ -61,12 +61,6 @@
     </build>
 
     <dependencies>
-        <!--dependency>
-          <groupId>com.jiabao</groupId>
-          <artifactId>[the artifact id of the block to be mounted]</artifactId>
-          <version>1.0-SNAPSHOT</version>
-        </dependency-->
-
         <!-- SPRING begin -->
         <dependency>
             <groupId>org.springframework</groupId>
